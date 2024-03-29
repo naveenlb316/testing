@@ -1,1 +1,83 @@
-{"profileCart":{"ProfileId":"d9eb0d5e-2397-4cd7-aaa1-0937702cea56","ProfileCartPointsTotal":664148600,"ProfileCartRewardCount":4,"ProfileCartItems":[{"ProfileCartItemId":"842bf302-20ed-4eee-af68-234902dcc2fc","RewardId":"86a265e3-b1a7-439e-a8b6-e4b207d2564c","RewardQuantity":6036,"RewardsPointsPrice":110000,"RewardTitle":"Cash back a Tarjeta Citi Beyond $11,000.00 MXN","RewardImageName":"Img.png","RewardFullImageName":"//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png","RewardDescription":"Cash back a tarjeta de crédito.\r\n","Status":"A"},{"ProfileCartItemId":"89dc078a-bc57-4ee2-9da2-a13986dd94a6","RewardId":"fb6341d6-0803-4573-8b34-bfdc83744b8d","RewardQuantity":12,"RewardsPointsPrice":5500,"RewardTitle":"Cash back a Tarjeta Citi Beyond $550.00 MXN","RewardImageName":"Img.png","RewardFullImageName":"//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png","RewardDescription":"Cash back a tarjeta de crédito.\r\n","Status":"A"},{"ProfileCartItemId":"fc8e528d-536a-4527-82ad-e7193cc094db","RewardId":"d7c8a3c1-cf6e-47c2-a9b3-f9f11b8082ed","RewardQuantity":2,"RewardsPointsPrice":58000,"RewardTitle":"25% Comision Anual Tarjeta Citi Beyond $5,000 + IVA","RewardImageName":"Img.png","RewardFullImageName":"//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png","RewardDescription":"Pago del 25% de la comisión anual de la Tarjeta Citi Beyond $5,000 MXN + IVA.\r\n El Sistema no permite hacer la redención de la anualidad 5 días hábiles antes de su fecha límite de pago. \r\n","Status":"A"},{"ProfileCartItemId":"e3f22870-5e8f-4d5c-9808-5346f94414c4","RewardId":"6d778a86-4705-493c-8d59-1f1ad07483da","RewardQuantity":6,"RewardsPointsPrice":1100,"RewardTitle":"Cash back a Tarjeta Citi Beyond $110.00 MXN","RewardImageName":"Img.png","RewardFullImageName":"//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png","RewardDescription":"Cash back a tarjeta de crédito.\r\n","Status":"A"}]},"pointsBalance":"110000","shippingAddress":{"emailAddress":"N************d@test.com","unMaskedEmailAddress":"Naomie.Sanford@test.com","homePhone":"(****)-***-2701","mobilePhone":"(****)-***-2701","businessPhone":"","addressLine1":"6398 Connection Dr","addressLine2":"#3607","addressLine3":"Street 123","country":"MEX","postalCode":"*****","joinDate":"2024-02-26T04:35:01Z"}}
+{
+    "profileCart": {
+      "ProfileId": "d9eb0d5e-2397-4cd7-aaa1-0937702cea56",
+      "ProfileCartPointsTotal": 664148600,
+      "ProfileCartRewardCount": 5,
+      "ProfileCartItems": [
+        {
+          "ProfileCartItemId": "842bf302-20ed-4eee-af68-234902dcc2fc",
+          "RewardId": "86a265e3-b1a7-439e-a8b6-e4b207d2564c",
+          "RewardQuantity": 6036,
+          "RewardsPointsPrice": 12000,
+          "RewardTitle": "Cash back a Tarjeta Citi Beyond $11,000.00 MXN",
+          "RewardImageName": "Img.png",
+          "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+          "RewardDescription": "Cash back a tarjeta de crï¿½dito.\r\n",
+          "Status": "A",
+          "Type": "Rewards"
+        },
+        {
+          "ProfileCartItemId": "89dc078a-bc57-4ee2-9da2-a13986dd94a6",
+          "RewardId": "fb6341d6-0803-4573-8b34-bfdc83744b8d",
+          "RewardQuantity": 12,
+          "RewardsPointsPrice": 5250,
+          "RewardTitle": "Cash back a Tarjeta Citi Beyond $550.00 MXN",
+          "RewardImageName": "Img.png",
+          "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+          "RewardDescription": "Cash back a tarjeta de crï¿½dito.\r\n",
+          "Status": "A",
+          "Type": "Merch"
+        },
+        {
+          "ProfileCartItemId": "fc8e528d-536a-4527-82ad-e7193cc094db",
+          "RewardId": "d7c8a3c1-cf6e-47c2-a9b3-f9f11b8082ed",
+          "RewardQuantity": 2,
+          "RewardsPointsPrice": 50200,
+          "RewardTitle": "25% Comision Anual Tarjeta Citi Beyond $5,000 + IVA",
+          "RewardImageName": "Img.png",
+          "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+          "RewardDescription": "Pago del 25% de la comisiï¿½n anual de la Tarjeta Citi Beyond $5,000 MXN + IVA.\r\n El Sistema no permite hacer la redenciï¿½n de la anualidad 5 dï¿½as hï¿½biles antes de su fecha lï¿½mite de pago. \r\n",
+          "Status": "A",
+          "Type": "Merch"
+        },
+        {
+          "ProfileCartItemId": "e3f22870-5e8f-4d5c-9808-5346f94414c4",
+          "RewardId": "6d778a86-4705-493c-8d59-1f1ad07483da",
+          "RewardQuantity": 6,
+          "RewardsPointsPrice": 12100,
+          "RewardTitle": "Cash back a Tarjeta Citi Beyond $110.00 MXN",
+          "RewardImageName": "Img.png",
+          "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+          "RewardDescription": "Cash back a tarjeta de crï¿½dito.\r\n",
+          "Status": "A",
+          "Type": "Rewards"
+        },
+        {
+          "ProfileCartItemId": "e3f22870-5e8f-4d5c-9808-5346f94414c4",
+          "RewardId": "6d778a86-4705-493c-8d59-1f1ads07483da",
+          "RewardQuantity": 6,
+          "RewardsPointsPrice": 11200,
+          "RewardTitle": "Cash back a Tarjeta Citi Beyond $110.00 MXN",
+          "RewardImageName": "Img.png",
+          "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+          "RewardDescription": "Cash back a tarjeta de crï¿½dito.\r\n",
+          "Status": "A",
+          "Type": "Merch"
+        }
+      ]
+    },
+    "pointsBalance": "110000",
+    "shippingAddress": {
+      "emailAddress": "N************d@test.com",
+      "unMaskedEmailAddress": "Naomie.Sanford@test.com",
+      "homePhone": "(****)-***-2701",
+      "mobilePhone": "(****)-***-2701",
+      "businessPhone": "",
+      "addressLine1": "6398 Connection Dr",
+      "addressLine2": "#3607",
+      "addressLine3": "Street 123",
+      "country": "MEX",
+      "postalCode": "*****",
+      "joinDate": "2024-02-26T04:35:01Z"
+    }
+  }
