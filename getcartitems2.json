@@ -1,0 +1,139 @@
+{
+  "profileCart": {
+    "ProfileId": "d9eb0d5e-2397-4cd7-aaa1-0937702cea56",
+    "ProfileCartPointsTotal": 9910500,
+    "ProfileCartRewardCount": 7,
+    "ProfileCartItems": [
+      {
+        "ProfileCartItemId": "2d0200dc-58b1-4173-b282-935b11cc4cbc",
+        "RewardId": "18d8174a-5a73-4ae4-a1be-c998cfdc126f",
+        "RewardCode": "STB01000FI",
+        "RewardQuantity": 16,
+        "RewardsPointsPrice": 8600,
+        "RewardTitle": "Starbucks Card $1,000 Pesos",
+        "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/",
+        "RewardDescription": "MOCHILA MONTAÑA WALLIS B1781611 COLOR ROJA/GRIS100% poliésterSemi impermeableRespaldo acolchado con ventilación ajustableCorreas para espalda y cinturaBolsa superior con cierre, con bolsa de malla internaBolsas laterales con cierreBolsa inferior con cierreCierre intermedio para hacerla de una a 2 piezasVarillas de Aluminio desmontables, con regla, para mantenerla rectaCon porta herramientasProtector impermeableMedidas: 37x26x90 cmCapacidad: 90L",
+        "Status": "A",
+        "StatusCode": 0,
+        "JsonExternalData": {
+          "CategoryCode": "MERCH",
+          "DeliveryMethod": "Domestic",
+          "PostingKeyCode": "C322-958",
+          "PostingKeyValue": "155728801"
+        }
+      },
+      {
+        "ProfileCartItemId": "89dc078a-bc57-4ee2-9da2-a131986dd94a6",
+        "RewardId": "fb6341d6-0803-4573-8b34-bfdc183744b8d",
+        "RewardCode": "CCMXBY02550",
+        "RewardQuantity": 27,
+        "RewardsPointsPrice": 5500,
+        "RewardTitle": "Cash back a Tarjeta Citi Beyond $550.00 MXN",
+        "RewardImageName": "Img.png",
+        "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+        "RewardDescription": "Cash back a tarjeta de crédito.\r\n",
+        "Status": "A",
+        "StatusCode": 0,
+        "JsonExternalData": {
+          "CategoryCode": "REWARDS",
+          "DeliveryMethod": "Domestic",
+          "PostingKeyCode": "C322-9158",
+          "PostingKeyValue": "1557288011"
+        }
+      },
+      {
+        "ProfileCartItemId": "c3e7c916-a4bb-4c2a-8f50-62626c60c246",
+        "RewardId": "86a265e3-b1a7-439e-a8b6-e4b207d2564c",
+        "RewardCode": "CCMXBY011K",
+        "RewardQuantity": 85,
+        "RewardsPointsPrice": 110000,
+        "RewardTitle": "Cash back a Tarjeta Citi Beyond $11,000.00 MXN",
+        "RewardImageName": "Img.png",
+        "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+        "RewardDescription": "Cash back a tarjeta de crédito.\r\n",
+        "Status": "A",
+        "StatusCode": 0,
+        "JsonExternalData": {
+
+        }
+      },
+      {
+        "ProfileCartItemId": "f1e56fe5-7cab-4739-9506-ebe94ab2d001",
+        "RewardId": "6ef885aa-db7d-4250-9d1c-6fd03406d2a9",
+        "RewardCode": "CNP00500DI",
+        "RewardQuantity": 4,
+        "RewardsPointsPrice": 5400,
+        "RewardTitle": "Certificado Cinecash-Cinepolis $500 Pesos",
+        "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/",
+        "RewardDescription": "CERTIFICADO CINECASH-CINEPOLIS $500 PESOS\r\n",
+        "Status": "A",
+        "StatusCode": 0,
+        "JsonExternalData": {
+
+        }
+      },
+      {
+        "ProfileCartItemId": "69cb9096-d545-453d-977b-0b0ccee5a71b",
+        "RewardId": "9e240579-b245-49d7-b323-eb4c52ff9400",
+        "RewardCode": "CNP00250DI",
+        "RewardQuantity": 42,
+        "RewardsPointsPrice": 3100,
+        "RewardTitle": "Certificado Cinecash-Cinepolis $250 Pesos",
+        "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/",
+        "RewardDescription": "CERTIFICADO CINECASH-CINEPOLIS $250 PESOS",
+        "Status": "A",
+        "StatusCode": 0,
+        "JsonExternalData": {
+
+        }
+      },
+      {
+        "ProfileCartItemId": "e3f22870-5e8f-4d5c-9808-5346f94414c4",
+        "RewardId": "6d778a86-4705-493c-8d59-1f1ad07483da",
+        "RewardCode": "CCMXBY0110",
+        "RewardQuantity": 6,
+        "RewardsPointsPrice": 1100,
+        "RewardTitle": "Cash back a Tarjeta Citi Beyond $110.00 MXN",
+        "RewardImageName": "Img.png",
+        "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+        "RewardDescription": "Cash back a tarjeta de crédito.\r\n",
+        "Status": "A",
+        "StatusCode": 0,
+        "JsonExternalData": {
+
+        }
+      },
+      {
+        "ProfileCartItemId": "fc8e528d-536a-4527-82ad-e7193cc094db",
+        "RewardId": "d7c8a3c1-cf6e-47c2-a9b3-f9f11b8082ed",
+        "RewardCode": "CAMXBY280W",
+        "RewardQuantity": 2,
+        "RewardsPointsPrice": 58000,
+        "RewardTitle": "25% Comision Anual Tarjeta Citi Beyond $5,000 + IVA",
+        "RewardImageName": "Img.png",
+        "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+        "RewardDescription": "Pago del 25% de la comisión anual de la Tarjeta Citi Beyond $5,000 MXN + IVA.\r\n El Sistema no permite hacer la redención de la anualidad 5 días hábiles antes de su fecha límite de pago. \r\n",
+        "Status": "A",
+        "StatusCode": 0,
+        "JsonExternalData": {
+
+        }
+      }
+    ],
+    "StatusCode": 0
+  },
+  "pointsBalance": "55100",
+  "shippingAddress": {
+    "emailAddress": "N************d@test.com",
+    "unMaskedEmailAddress": "Naomie.Sanford@test.com",
+    "homePhone": "(****)-***-2701",
+    "mobilePhone": "(****)-***-2701",
+    "businessPhone": "",
+    "addressLine1": "6398 Connection Dr",
+    "addressLine2": "#3607",
+    "addressLine3": "Street 123",
+    "country": "MEX",
+    "postalCode": "*****",
+    "joinDate": "2024-02-26T04:35:01Z"
+  }
+}
