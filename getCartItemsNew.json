@@ -1,0 +1,146 @@
+{
+    "profileCart": {
+        "ProfileId": "2a3e88c3-004b-4592-88de-b25671e9a1be",
+        "ProfileCartPointsTotal": 250900,
+        "ProfileCartRewardCount": 5,
+        "ProfileCartItems": [
+            {
+                "ProfileCartItemId": "8fa58d86-7860-43ac-83d3-25befd519db3",
+                "RewardId": "d1d36710-2567-406d-bfa6-9b23c777d322",
+                "RewardCode": "91155656",
+                "RewardQuantity": 1,
+                "RewardsPointsPrice": 4600,
+                "RewardTitle": "LOCK & LOCK SOUNDLOCK LEPMIX AIRTIGHT CONTAINER SET",
+                "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/",
+                "RewardDescription": "\"Set de contenedores con capacidad de 620ml, 800ml y 1.5 l, donde podr&aacute;s almacenar cualquier tipo de alimentos y se mantendr&aacute;n frescos.\"",
+                "Status": "A",
+                "StatusCode": 0,
+                "JsonExternalData": {
+                    "CategoryCode": "MERCH",
+                    "DeliveryMethod": "Domestic shipping - please allow up to 10 days",
+                    "PostingKeyCode": "",
+                    "PostingKeyValue": "",
+                    "ImageName": "https://imgbanamex.s3.us-west-2.amazonaws.com/imagenes/BANAMEX150X150F/91155656.jpg",
+                    "FullImageName": "https://imgbanamex.s3.us-west-2.amazonaws.com/imagenes/BANAMEX600X600F/91155656.jpg",
+                    "GroupID": ""
+                },
+                "link": "?type=MERCHANDISE&psid=91155656"
+            },
+            {
+                "ProfileCartItemId": "0faa68d7-278b-4976-b009-26b148f5573f",
+                "RewardId": "f4d21ac3-54a0-408a-b2c3-23f939b8c7d8",
+                "RewardCode": "CAMXPM1087",
+                "RewardQuantity": 1,
+                "RewardsPointsPrice": 13800,
+                "RewardTitle": "Comisión Anual Citi Rewards $1,187 + IVA",
+                "RewardImageName": "Img.png",
+                "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+                "RewardDescription": "Pago de la comisión anual de la Tarjeta de Crédito Citi Rewards $1,187 + IVA.   El Sistema no permite hacer la redención de la anualidad 5 días hábiles antes de su fecha límite de pago. \r\n",
+                "Status": "A",
+                "StatusCode": 0,
+                "JsonExternalData": {
+                    "CategoryCode": "ANNUAL_FEE",
+                    "DeliveryMethod": "Citi Rewards (C322-620)",
+                    "PostingKeyCode": "C322-620",
+                    "PostingKeyValue": "TR_20240301150720",
+                    "ImageName": "",
+                    "FullImageName": "",
+                    "GroupID": "Annual Fee Credit"
+                },
+                "link": "?category=ANNUAL_FEE&type=CASHREWARD&groupId=Annual Fee Credit"
+            },
+            {
+                "ProfileCartItemId": "63e64b69-5145-4ec1-a2a3-f1a028506a48",
+                "RewardId": "a6ffae57-dfae-4758-858d-a795745ec1eb",
+                "RewardCode": "CHU00200FI",
+                "RewardQuantity": 1,
+                "RewardsPointsPrice": 3900,
+                "RewardTitle": "Chedraui $200 Gift Card",
+                "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/",
+                "RewardDescription": "Esta tarjeta es propiedad de Edenred México S.A de C.V, no es una tarjeta bancaria y su saldo no será entregado en efectivo. Es un monedero eléctronico que forma parte del sistema incentivos, para el pago exclusivo de bienes y servicios en los establecimientos comerciales de Chedarui. Esta tarjeta es intransferible y queda sujeta a las disposiciones establecidad en los términos y condiciones del producto .",
+                "Status": "A",
+                "StatusCode": 0,
+                "JsonExternalData": {
+                    "CategoryCode": "GIFT_CARD",
+                    "DeliveryMethod": "Domestic shipping - please allow up to 10 days",
+                    "PostingKeyCode": "",
+                    "PostingKeyValue": "",
+                    "ImageName": "https://www.fidelitymkt.com/tools/recursos/citibanamex/chedrauiedenred/thumb_chedrauiedenred.jpg",
+                    "FullImageName": "https://www.fidelitymkt.com/tools/recursos/citibanamex/chedrauiedenred/img_chedrauiedenred.jpg",
+                    "GroupID": "Chedraui"
+                },
+                "link": "?category=Gift Cards&type=CASHREWARD&groupId=Chedraui"
+            },
+            {
+                "ProfileCartItemId": "e535bf3f-2683-41d6-9ef6-73701e8de092",
+                "RewardId": "19ee3296-239f-4196-b6e0-67da00e3b12b",
+                "RewardCode": "91159544",
+                "RewardQuantity": 2,
+                "RewardsPointsPrice": 4300,
+                "RewardTitle": "LOVE & LEMONS SILVER RESIN CROWN FIGURINE DLS-2003SL",
+                "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/",
+                "RewardDescription": "\"Corona Decorativa De Resina Plateada 19.8x19.8x20.2 cm.\"",
+                "Status": "A",
+                "StatusCode": 0,
+                "JsonExternalData": {
+                    "CategoryCode": "MERCH",
+                    "DeliveryMethod": "Domestic shipping - please allow up to 10 days",
+                    "PostingKeyCode": "",
+                    "PostingKeyValue": "",
+                    "ImageName": "https://imgbanamex.s3.us-west-2.amazonaws.com/imagenes/BANAMEX150X150F/91159544.jpg",
+                    "FullImageName": "https://imgbanamex.s3.us-west-2.amazonaws.com/imagenes/BANAMEX600X600F/91159544.jpg",
+                    "GroupID": ""
+                },
+                "link": "?type=MERCHANDISE&psid=91159544"
+            },
+            {
+                "ProfileCartItemId": "c1cc6b75-400d-4d1c-828c-a488b347f2fe",
+                "RewardId": "a22e968d-5f7c-4666-a3cb-9a64e33c47f2",
+                "RewardCode": "CCMXCR5500",
+                "RewardQuantity": 4,
+                "RewardsPointsPrice": 55000,
+                "RewardTitle": "Cash back a Tarjeta Citi Rewards $5,500.00 MXN",
+                "RewardImageName": "Img.png",
+                "RewardFullImageName": "//s3.amazonaws.com/q1banx-al-images.loyalty.peoplecloud.epsilon.com/epsilon/fusion/epsilon.fusion.admin.web/rewardimages/Img.png",
+                "RewardDescription": "Cash back a tarjeta de crédito.\r\n",
+                "Status": "A",
+                "StatusCode": 0,
+                "JsonExternalData": {
+                    "CategoryCode": "CASHBACK",
+                    "DeliveryMethod": "Citi Rewards (C322-620)",
+                    "PostingKeyCode": "C322-620",
+                    "PostingKeyValue": "TR_20240301150720",
+                    "ImageName": "",
+                    "FullImageName": "",
+                    "GroupID": "Cashback"
+                },
+                "link": "?category=CASHBACK&type=CASHREWARD&groupId=Cashback"
+            }
+        ],
+        "StatusCode": 0,
+        "profileCartQtyCount": "9"
+    },
+    "pointsBalance": "1215077",
+    "shippingAddress": {
+        "firstName": "Robin",
+        "lastName": "Price",
+        "unMaskedpostalCode": "59144",
+        "emailAddress": "R************3@test.com",
+        "unMaskedEmailAddress": "Robin.Price123@test.com",
+        "unMaskedHomePhone": "5176931743",
+        "unMaskedMobilePhone": "7176931743",
+        "unMaskedBusinessPhone": "6176931743",
+        "homePhone": "(****)-***-1743",
+        "mobilePhone": "(****)-***-1743",
+        "businessPhone": "(****)-***-1743",
+        "addressLine1": "Oberbrunner Field",
+        "addressLine2": "3208 Andreane Shores",
+        "addressLine3": "Street 123",
+        "addressLine4": "Addr test 4",
+        "addressLine5": "Addr test 5",
+        "addressLine6": "Addr test 6",
+        "country": "MEX",
+        "postalCode": "*****",
+        "joinDate": "2024-03-01T05:37:20Z"
+    }
+}
